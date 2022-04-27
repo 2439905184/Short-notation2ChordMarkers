@@ -29,3 +29,8 @@ midi图像转简谱标记辅助软件
 ## 快速找到midi谱的旋律线
 * 遇到和弦时，只看最高音的变化 并用简谱唱法唱出来
 ![image](https://user-images.githubusercontent.com/29478722/165549279-3ad5e0c6-1ce1-48b4-9810-208b754bedac.png)
+
+## 识别midi谱(和弦)
+* 把和弦和节奏分开看
+* 如果只想知道和弦走向，把所有的断开的音符全部当做完整的一段。
+![image](https://user-images.githubusercontent.com/29478722/165549596-cde9f561-980b-4aad-8132-b2803bc64a97.png)

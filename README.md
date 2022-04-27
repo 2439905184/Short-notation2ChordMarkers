@@ -21,3 +21,7 @@ midi图像转简谱标记辅助软件
 ## todo
 ![image](https://user-images.githubusercontent.com/29478722/165541731-f84bedc2-170a-4b83-8029-76c2e35b2154.png)
 * 转换midi谱到简谱（纯节奏） 图像识别
+
+## 找到一种midi谱的记忆方法
+快速的把midi谱转换为乐声听觉或者Cmaj7之类的概念
+![image](https://user-images.githubusercontent.com/29478722/165548469-eec20612-5d1c-4b67-abfa-061555627971.png)

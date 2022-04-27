@@ -25,3 +25,7 @@ midi图像转简谱标记辅助软件
 ## 找到一种midi谱的记忆方法
 快速的把midi谱转换为乐声听觉或者Cmaj7之类的概念
 ![image](https://user-images.githubusercontent.com/29478722/165548469-eec20612-5d1c-4b67-abfa-061555627971.png)
+
+## 快速找到midi谱的旋律线
+* 遇到和弦时，只看最高音的变化 并用简谱唱法唱出来
+![image](https://user-images.githubusercontent.com/29478722/165549279-3ad5e0c6-1ce1-48b4-9810-208b754bedac.png)
